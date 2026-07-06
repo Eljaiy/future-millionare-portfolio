@@ -1,2 +1,2 @@
 # First-trail
-My first trial with html. Not aiming for perfect but progress.
+Finally starting to show case my growth,which is also growth.
