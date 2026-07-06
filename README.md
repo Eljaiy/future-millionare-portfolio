@@ -1,2 +1,2 @@
-# future-millionare-portfolio
-My journey learning web development and building my portfolio website 
+# First-trail
+My first trial with html. Not aiming for perfect but progress.
